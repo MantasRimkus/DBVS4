@@ -1,7 +1,3 @@
--- 4 užduotis. Mantas Rimkus, PI24SN
--- Duomenų bazė: RRT (MS SQL Server, T-SQL)
--- Kiekvienas punktas pirmiausia pašalina tai, ką sukūrė ankstesnis jo paleidimas,
--- todėl bet kurį punktą galima paleisti atskirai ir pakartotinai be klaidų.
 USE RRT;
 GO
 
